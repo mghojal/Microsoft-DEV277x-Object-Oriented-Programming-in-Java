@@ -10,19 +10,19 @@ Course outlines:
 * Arrays
 * 2D Arrays
 * Array Lists
-* Project-BattleShip
+* Project-BattleShip (files Battleship.java)
 # Module 2: Building Your Own Objects #
 * Objetcs
 * Anatomy of an Object
 * Enacsulation
 * What is Static
-* Project - FracClac
-Module 3: Object Inheritance
+* Project - FracClac (files: Fraction.java, FractionCalculator.java, FractionCalculatorAdvanced.java)
+# Module 3: Object Inheritance #
 * Inheritance
 * Super
 * Polymorphism
 * Abstract Classes
 * Interfaces
 * Project - Company Structure
-Module 4: Capstone Project
+# Module 4: Capstone Project #
 
