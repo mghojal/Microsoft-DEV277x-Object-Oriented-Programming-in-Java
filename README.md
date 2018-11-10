@@ -4,11 +4,12 @@ EDX course from Microsoft: DEV277x Object Oriented Programming in Java/Battleshi
 Course under the following link:
 https://www.edx.org/course/object-oriented-programming-in-java-1
 
+
 Course outlines:
 Module 1: What is an Object
 - Introduction
-    Intro to Moduel1
-    Primitives vs. Objects
+-- Intro to Moduel1
+-- Primitives vs. Objects
 - Arrays
 - 2D Arrays
 - Array Lists
