@@ -6,14 +6,23 @@ https://www.edx.org/course/object-oriented-programming-in-java-1
 
 
 Course outlines:
-Module 1: What is an Object
-- Introduction
--- Intro to Moduel1
--- Primitives vs. Objects
-- Arrays
-- 2D Arrays
-- Array Lists
-- Project-BattleShip
-Module 2: Building Your Own Objects
+# Module 1: What is an Object # 
+* Arrays
+* 2D Arrays
+* Array Lists
+* Project-BattleShip
+# Module 2: Building Your Own Objects #
+* Objetcs
+* Anatomy of an Object
+* Enacsulation
+* What is Static
+* Project - FracClac
 Module 3: Object Inheritance
+* Inheritance
+* Super
+* Polymorphism
+* Abstract Classes
+* Interfaces
+* Project - Company Structure
 Module 4: Capstone Project
+
