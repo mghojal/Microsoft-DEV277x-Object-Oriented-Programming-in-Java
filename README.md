@@ -20,7 +20,7 @@ https://www.edx.org/course/object-oriented-programming-in-java-1
 * Project - FracClac
   * [Fraction](https://github.com/mghojal/Microsoft-DEV277x-Object-Oriented-Programming-in-Java/blob/master/FractionCalculator/Fraction.java)
   * [FractionCalculator](https://github.com/mghojal/Microsoft-DEV277x-Object-Oriented-Programming-in-Java/blob/master/FractionCalculator/FractionCalculator.java)
-  * [FractionCalculatorAdvanced](https://github.com/mghojal/Microsoft-DEV277x-Object-Oriented-Programming-in-Java/blob/master/FractionCalculator/FractionCalculatorAdvanced.java)
+  * [FractionCalculatorAdvanced](https://github.com/mghojal/Microsoft-DEV277x-Object-Oriented-Programming-in-Java/blob/master/FractionCalculator/FractionClaculatorAdvanced.java)
 ### Module 3: Object Inheritance ###
 * Inheritance
 * Super
