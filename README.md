@@ -11,16 +11,16 @@ https://www.edx.org/course/object-oriented-programming-in-java-1
 * 2D Arrays
 * Array Lists
 * Project-BattleShip
-  * [Battleship](https://github.com/mghojal/Microsoft-DEV277x-Object-Oriented-Programming-in-Java/blob/master/Battleship.java)
+  * [Battleship](https://github.com/mghojal/Microsoft-DEV277x-Object-Oriented-Programming-in-Java/blob/master/BattleShip/Battleship.java)
 ### Module 2: Building Your Own Objects ###
 * Objetcs
 * Anatomy of an Object
 * Enacsulation
 * What is Static
 * Project - FracClac
-  * [Fraction](https://github.com/mghojal/Microsoft-DEV277x-Object-Oriented-Programming-in-Java/blob/master/Fraction.java)
-  * [FractionCalculator](https://github.com/mghojal/Microsoft-DEV277x-Object-Oriented-Programming-in-Java/blob/master/FractionCalculator.java)
-  * [FractionCalculatorAdvanced](https://github.com/mghojal/Microsoft-DEV277x-Object-Oriented-Programming-in-Java/blob/master/FractionCalculatorAdvanced.java)
+  * [Fraction](https://github.com/mghojal/Microsoft-DEV277x-Object-Oriented-Programming-in-Java/blob/master/FractionCalculator/Fraction.java)
+  * [FractionCalculator](https://github.com/mghojal/Microsoft-DEV277x-Object-Oriented-Programming-in-Java/blob/master/FractionCalculator/FractionCalculator.java)
+  * [FractionCalculatorAdvanced](https://github.com/mghojal/Microsoft-DEV277x-Object-Oriented-Programming-in-Java/blob/master/FractionCalculator/FractionCalculatorAdvanced.java)
 ### Module 3: Object Inheritance ###
 * Inheritance
 * Super
