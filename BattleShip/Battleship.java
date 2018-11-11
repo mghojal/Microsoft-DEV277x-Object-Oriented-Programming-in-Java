@@ -186,8 +186,7 @@ public class main {
 	}
 	
 	public static void main(String args[]) {
-		int[] array = new int[10];
-		array[10] = 5;
+		
 		
 		System.out.println("Please enter the dimension of the map that you want");
 		System.out.print("x dimension: ");
