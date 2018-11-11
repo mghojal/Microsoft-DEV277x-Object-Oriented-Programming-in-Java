@@ -28,5 +28,13 @@ https://www.edx.org/course/object-oriented-programming-in-java-1
 * Abstract Classes
 * Interfaces
 * Project - Company Structure
+  * [Company Structure test file](https://github.com/mghojal/Microsoft-DEV277x-Object-Oriented-Programming-in-Java/blob/master/CompanyStructure/CompanyStructure.java)
+  * [Employee](https://github.com/mghojal/Microsoft-DEV277x-Object-Oriented-Programming-in-Java/blob/master/CompanyStructure/Employee.java)
+    * [Business Employee](https://github.com/mghojal/Microsoft-DEV277x-Object-Oriented-Programming-in-Java/blob/master/CompanyStructure/BusinessEmployee.java)
+      * [Accountant](https://github.com/mghojal/Microsoft-DEV277x-Object-Oriented-Programming-in-Java/blob/master/CompanyStructure/Accountant.java)
+      * [Business Lead](https://github.com/mghojal/Microsoft-DEV277x-Object-Oriented-Programming-in-Java/blob/master/CompanyStructure/BusinessLead.java)
+    * [Technical Employee](https://github.com/mghojal/Microsoft-DEV277x-Object-Oriented-Programming-in-Java/blob/master/CompanyStructure/TechnicalEmployee.java)
+      * [Software Engineer](https://github.com/mghojal/Microsoft-DEV277x-Object-Oriented-Programming-in-Java/blob/master/CompanyStructure/SoftwareEngineer.java)
+      * [Technical Lead](https://github.com/mghojal/Microsoft-DEV277x-Object-Oriented-Programming-in-Java/blob/master/CompanyStructure/TechnicalLead.java)
 ### Module 4: Capstone Project ###
 
